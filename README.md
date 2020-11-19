@@ -1,6 +1,8 @@
 # Karex
 Program for plant quarantine stations, 2007-2009 
 
+![Version](https://img.shields.io/badge/version-1.19-yellow)
+
 ### The screenshorts
 
 ![Screenshort1](https://raw.githubusercontent.com/AstiiCoder/Karex/main/screen1.png)
