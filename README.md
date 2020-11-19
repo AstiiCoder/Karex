@@ -7,8 +7,8 @@ Program for plant quarantine stations, 2007-2009
 
 ![Delphi](https://img.shields.io/badge/-Delphi-ED1F35?style=for-the-badge&amp;logo=Embarcadero&amp;logoColor=White)
 ![MSAccess](https://img.shields.io/badge/-MsAccess-A4373A?style=for-the-badge&amp;logo=microsoft-access&amp;logoColor=White)
-![MSExcel](https://img.shields.io/badge/-MsExcel-F68212?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=White)
-![VBA](https://img.shields.io/badge/-VBA-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=White)
+![MSExcel](https://img.shields.io/badge/-MsExcel-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=White)
+![VBA](https://img.shields.io/badge/-VBA-FFCA28?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=White)
 
 ### The screenshorts
 
